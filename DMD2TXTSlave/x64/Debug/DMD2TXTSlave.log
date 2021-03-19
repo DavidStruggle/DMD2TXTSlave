@@ -1,0 +1,3 @@
+﻿  main.cpp
+  Info: Boost.Config is older than your compiler version - probably nothing bad will happen - but you may wish to look for an update Boost version.  Define BOOST_CONFIG_SUPPRESS_OUTDATED_MESSAGE to suppress this message.
+  DMD2TXTSlave.vcxproj -> C:\Users\David\Desktop\HardwareSlaves\DMD2TXTSlave richtig\DMD2TXTSlave\x64\Debug\DMD2TXTSlave.exe
